@@ -3,15 +3,15 @@ Data Source:: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/
 
 # Hello 
 ## I analyzed sample sales data to address the following questions. The link to the data is provided above. Additionally, I outlined some uses of the study.
-## Q1. Do sales vary by month of the year? Which months have more sales.
-## Q2. popular product
+## 
+## Q1. popular product
 ### >-Overall
 ### >-Country wise
-## Q3. Popular deal size
-## Q4. Does deal size and sales?
+## Q2. Popular deal size
+## Q3. Does deal size and sales?
 ### >-Overall
 ### >-Country Wise
-## Q5. Top consumer countries
+## Q4. Top consumer countries
 ### >-According to number of orders
 ### >-According to Sales
 
