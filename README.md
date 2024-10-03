@@ -5,14 +5,14 @@ Data Source:: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/
 I analyzed sample sales data to address the following questions. The link to the data is provided above. Additionally, I outlined some uses of the study.
 
 ## Q1. popular product
- >-Overall
+ >-Overall, 
  >-Country wise
 ## Q2. Popular deal size
 ## Q3. Does deal size and sales?
->-Overall
+>-Overall, 
 >-Country Wise
 ## Q4. Top consumer countries
->-According to number of orders
+>-According to number of orders, 
 >-According to Sales
 
 ## Why need this study:
