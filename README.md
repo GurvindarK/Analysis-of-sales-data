@@ -1,4 +1,4 @@
-# Sample-sales-data
+# Analysis-of-sales-data
 Data Source:: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/
 
 # Hello 
